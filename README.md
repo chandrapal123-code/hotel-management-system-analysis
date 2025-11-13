@@ -55,5 +55,6 @@
 
 --screenshort or image :-
                   ## 📊 Dashboard Preview
-![Hotel Dashboard](Screenshot 2025-11-12 191257.png)
+                  dashboard looks like :- ![Alt text](https://github.com/chandrapal123-code/hotel-management-system-analysis/blob/main/dashboardcgithub.xlsb)
+![Hotel Dashboard]([Screenshot 2025-11-12 191257.png](https://github.com/chandrapal123-code/hotel-management-system-analysis/blob/main/Screenshot%202025-11-12%20191257.png))
 
